@@ -43,13 +43,13 @@ export default {
 		grid-template-areas: 
 			"header header"
 			"menu content"
-			"menu footer"
+			"menu footer";
 	}
 
 	#app.hide-menu {
 		grid-template-areas: 
 			"header header"
 			"content content"
-			"footer footer"
+			"footer footer";
 	}
 </style>
